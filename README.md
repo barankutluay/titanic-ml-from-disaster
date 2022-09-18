@@ -1,3 +1,5 @@
 # Titanic - Machine Learning From a Disaster
 
-Includes EDA, Visualisation and ML Modelling of Titanic data.
+Includes EDA and ML Modelling of Titanic data.
+
+Visualisation is going to be added.

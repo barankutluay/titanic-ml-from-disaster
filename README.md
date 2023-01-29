@@ -2,8 +2,6 @@
 
 Includes EDA and ML Modelling of given **[Titanic]([https://www.kaggle.com/c/titanic])** data by Kaggle.
 
-Visualisation is going to be added.
-
 ## Contact
 
 [Kaggle](https://www.kaggle.com/barankutluay) \

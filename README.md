@@ -1,6 +1,8 @@
 # Titanic - Machine Learning From Disaster
 
-Includes EDA and ML Modelling of given **[Titanic]([https://www.kaggle.com/c/titanic])** data by Kaggle.
+Includes Exploratory Data Analysis, Visualisation, Feature Engineering and Machine Learning steps of given **[Titanic]([https://www.kaggle.com/c/titanic])** data by Kaggle.
+
+The goal here is to create an estimator.
 
 ## Contact
 
